@@ -1,4 +1,5 @@
-# Sicp Racket Boilerplate
+# SICP
+Solutions to Structure and Interpretation of Computer Programs (SICP)
 
 ### Requirements
 
